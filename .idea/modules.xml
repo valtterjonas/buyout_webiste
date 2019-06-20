@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/buyout_website.iml" filepath="$PROJECT_DIR$/.idea/buyout_website.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/massive.iml" filepath="$PROJECT_DIR$/.idea/massive.iml" />
     </modules>
   </component>
 </project>
